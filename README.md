@@ -35,9 +35,13 @@ Passionate **Software Developer** looking for opportunities to contribute to **r
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 
-### Framework
+### Frontend 
 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+
+### Backend
+
+
 
 
 
