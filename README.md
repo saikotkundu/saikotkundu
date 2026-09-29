@@ -11,10 +11,10 @@ Passionate **Software Developer** looking for opportunities to contribute to **r
 
 <!-- Portfolio, Github, Youtube -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=note)](https://codepoint-46615.github.io/)
-[![GitHub followers](https://img.shields.io/github/followers/CodePoint-46615?style=for-the-badge&logo=github)](https://github.com/codePoint-46615)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=note)](https://saikotkundu.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/saikotkundu?style=for-the-badge&logo=github)](https://github.com/saikotkundu)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-bCyvAABEydL1Pd4N-Y3g?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SaikotKunduOfficial)
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=CodePoint-46615&color=282a36&style=for-the-badge)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=saikotkundu&color=282a36&style=for-the-badge)
 
 # Developing Stacks
 
@@ -67,12 +67,12 @@ Passionate **Software Developer** looking for opportunities to contribute to **r
 
 ## Academic Projects
 
-- 📱 **[Payoo](https://codepoint-46615.github.io/Payoo-MFS-Website/)** - Payoo is a static, client-side web application that simulates a Mobile Financial Services (MFS) experience.
+- 📱 **[Payoo](https://saikotkundu.github.io/Payoo-MFS-Website/)** - Payoo is a static, client-side web application that simulates a Mobile Financial Services (MFS) experience.
 - 🌍 **[Green Earth](https://green-earth-89i.pages.dev/)** - Static, client-side web application. fetching an API data.
-- 🌾 **[AgriPro](https://github.com/CodePoint-46615/AgriPro.git)** - Smart web-based system connecting farmers, advisors & admins for better farming.
-- 🕜 **[Shomoysheba](https://github.com/CodePoint-46615/Shomoysheba.git)** - Java Spring Boot service platform ⚙️
-- 🎭 **[ExhibitPro - Backend](https://github.com/CodePoint-46615/exhibitPro-backend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
-- 🎭 **[ExhibitPro - Frontend](https://github.com/CodePoint-46615/exhibitPro-frontend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
+- 🌾 **[AgriPro](https://github.com/saikotkundu/AgriPro.git)** - Smart web-based system connecting farmers, advisors & admins for better farming.
+- 🕜 **[Shomoysheba](https://github.com/saikotkundu/Shomoysheba.git)** - Java Spring Boot service platform ⚙️
+- 🎭 **[ExhibitPro - Backend](https://github.com/saikotkundu/exhibitPro-backend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
+- 🎭 **[ExhibitPro - Frontend](https://github.com/saikotkundu/exhibitPro-frontend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
 
 # Problem Solving
 
@@ -95,7 +95,7 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 ![Scikit](https://img.shields.io/badge/Scikit-black?style=for-the-badge&logo=Scikitlearn)
 ![ML](https://img.shields.io/badge/ML-black?style=for-the-badge&logo=ML)
 
-- Look at: [Repo Link](https://github.com/CodePoint-46615/Thesis.git)
+- Look at: [Repo Link](https://github.com/saikotkundu/Thesis.git)
 
 </details>
 
@@ -107,7 +107,7 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 ](https://www.linkedin.com/in/saikotkundu/)
 [![Discord](https://img.shields.io/discord/1521939986545381427?style=for-the-badge&logo=discord)](https://discord.com/channels/1521939986545381427/1521939987157876748)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Opening_Task5490?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Opening_Task5490/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codePoint-46615)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikotkundu)
 
 <!-- # Recents
 
